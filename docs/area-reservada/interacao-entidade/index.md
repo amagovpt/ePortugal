@@ -1,5 +1,7 @@
 ## 6.	Interação com a Entidade
 
+[< voltar](https://amagovpt.github.io/ePortugal/area-reservada/)
+
 Passo 1 – O utilizador autenticado entra na A.R., na página da Entidade A, onde está instalado e configurado o portlet:
 -	O portlet invoca o serviço remoto da entidade identificando obrigatoriamente o cidadão, a língua escolhida e, opcionalmente, uma pessoa colectiva pré-seleccionada pelo utilizador; <br><br>
 -	O serviço da entidade devolve vários blocos informativos em XML, por sua vez constituídos por sub-blocos que poderão conter informações diversas, links para “drill-down”, ou ações; <br><br>

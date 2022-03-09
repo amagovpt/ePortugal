@@ -1,5 +1,7 @@
 ## 9.	SOAP: Resposta do serviço remoto
 
+[< voltar](https://amagovpt.github.io/ePortugal/area-reservada/)
+
 A resposta do webservice da Entidade AP remota deverá ter uma estrutura geral como na figura:
 
 <a href="https://github.com/amagovpt/ePortugal/blob/main/exemplos/Resposta.txt" target="_blank">Exemplo Resposta – Resposta SOAP da Entidade Remota inicial</a>

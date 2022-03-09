@@ -1,10 +1,12 @@
 ## 15.	Bloco: Detalhe do pedido
 
+[< voltar](https://amagovpt.github.io/ePortugal/area-reservada/)
+
 O bloco “detalhe do pedido” terá a seguinte estrutura:
 
 <a href="https://github.com/amagovpt/ePortugal/blob/main/exemplos/detalhedepedido.xml" target="_blank">Exemplo Bloco “detalhe do pedido”</a>
 
-### Detalhe dos Pedidos
+#### Detalhe dos Pedidos
 Quando o utilizador clica num serviço é redirecionado para a página com o detalhe desse mesmo pedido de serviço e respetivas notificações, onde pode verificar os seus elementos informativos:
 
 ![Detalhe dos Pedido](https://github.com/amagovpt/ePortugal/blob/main/assets/images/detalhe-pedido.png?raw=true)
@@ -18,7 +20,7 @@ Quando o utilizador clica num serviço é redirecionado para a página com o det
 
 ![Notificações](https://github.com/amagovpt/ePortugal/blob/main/assets/images/notificacoes.png?raw=true)
 
-### Notificações
+#### Notificações
 Área com todas as notificações recebidas referentes a determinado pedido, contém os seguintes campos:
 -	“Remetente” – utilizador de origem de pedido
 -	“Destinatário” – utilizador de destino de pedido
