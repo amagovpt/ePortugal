@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ordersplaced>​
+	<header>
+		<column1>Pedido</column1>
+		<column2>Nº Processo</column2>
+		<column3>Nº Pedido</column3>
+		<column4>Data Submissão</column4>	
+		<column5>Estado</column5>	
+		<column6>Data Estado</column6>
+		<column7>Observações</column7>			
+	</header>
+	<ordersinprogress>
+		<table1>Pedidos em curso</table1>
+		<service>​
+			<order>Pedido de estatuária</order>​
+			<processnumber>30084568472</processnumber>​
+			<ordernumber>50912748</ordernumber>​
+			<submissiondate>2020-02-02</submissiondate>​
+			<date>2020-02-15</date>​
+			<state>Pendente</state>
+			<note>Pendente</note>			
+			<link>PEDIDO[DETALHE]</link>​
+		</service>​	
+		<service>​
+			<order>Pedido de estatuária</order>​
+			<processnumber>30084568472</processnumber>​
+			<ordernumber>50912748</ordernumber>​
+			<submissiondate>2020-02-02</submissiondate>​
+			<date>2020-02-15</date>​
+			<state>Pendente</state>
+			<note>Pendente</note>			
+			<link>PEDIDO[DETALHE]</link>​
+		</service>​	
+		<service>​
+			<order>Pedido de estatuária</order>​
+			<processnumber>30084568472</processnumber>​
+			<ordernumber>50912748</ordernumber>​
+			<submissiondate>2020-02-02</submissiondate>​
+			<date>2020-02-15</date>​
+			<state>Pendente</state>
+			<note>Pendente</note>			
+			<link>PEDIDO[DETALHE]</link>​
+		</service>​	
+	</ordersinprogress>
+	<archivedorders>
+		<table2>Pedidos Arquivados</table2>
+		<service>​
+			<order>Pedido de estatuária</order>​
+			<processnumber>30084568472</processnumber>​
+			<ordernumber>50912748</ordernumber>​
+			<submissiondate>2020-02-02</submissiondate>​
+			<date>2020-02-15</date>​
+			<state>Pendente</state>
+			<note>Pendente</note>			
+			<link>PEDIDO[DETALHE]</link>​
+		</service>​	
+		<service>​
+			<order>Pedido de estatuária</order>​
+			<processnumber>30084568472</processnumber>​
+			<ordernumber>50912748</ordernumber>​
+			<submissiondate>2020-02-02</submissiondate>​
+			<date>2020-02-15</date>​
+			<state>Pendente</state>
+			<note>Pendente</note>			
+			<link>PEDIDO[DETALHE]</link>​
+		</service>​	
+		<service>​
+			<order>Pedido de estatuária</order>​
+			<processnumber>30084568472</processnumber>​
+			<ordernumber>50912748</ordernumber>​
+			<submissiondate>2020-02-02</submissiondate>​
+			<date>2020-02-15</date>​
+			<state>Pendente</state>
+			<note>Pendente</note>			
+			<link>PEDIDO[DETALHE]</link>​
+		</service>​	
+	</archivedorders>
+</ordersplaced>

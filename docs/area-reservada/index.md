@@ -30,9 +30,9 @@ Data:  07 de março de 2022
 
 ### 12.	[Bloco: Dados Gerais](dados-gerais)
 
-### 13.	[Bloco: Serviços](operacoes)
+### 13.	[Bloco: Serviços](servicos)
 
-### 14.	[Bloco: Pedidos Realizados](operacoes)
+### 14.	[Bloco: Pedidos Realizados](pedidos-realizados)
 
 ### 15.	[Bloco: Detalhe do pedido](operacoes)
 

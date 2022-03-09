@@ -5,7 +5,7 @@ O bloco “dadosgerais” terá a seguinte estrutura:
 <a href="https://github.com/amagovpt/ePortugal/blob/main/exemplos/DadosGerais.xml" target="_blank">Exemplo Bloco “dadosgerais”</a>
 
 ### Dados gerais
-![Arquitetura do Sistema](https://github.com/amagovpt/ePortugal/blob/main/assets/images/dados-gerais.png?raw=true)
+![Dados gerais](https://github.com/amagovpt/ePortugal/blob/main/assets/images/dados-gerais.png?raw=true)
 
 ### Representante
 -	“NIPC/NON” - Número de Identificação de Pessoa Colectiva;
