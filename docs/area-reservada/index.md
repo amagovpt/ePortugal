@@ -36,10 +36,10 @@ Data:  07 de março de 2022
 
 ### 15.	[Bloco: Detalhe do pedido](detalhe-pedido)
 
-### 16.	[Link: Drill-down](operacoes)
+### 16.	[Link: Drill-down](drill-down)
 
-### 17.	[Link: URL externo](operacoes)
+### 17.	[Link: URL externo](url-externo)
 
-### 18.	[Link: Adicionar ao Cesto](operacoes)
+### 18.	[Link: Adicionar ao Cesto](cesto)
 
-### 19.	[Evolução do Kit Genérico](operacoes)
+### 19.	[Evolução do Kit Genérico](evolucao-kit)
