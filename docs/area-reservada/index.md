@@ -26,9 +26,9 @@ Data:  07 de março de 2022
 
 ### 10.	[Écran inicial](ecran-inicial)
 
-### 11.	[Blocos de informação reutilizáveis](operacoes)
+### 11.	[Blocos de informação reutilizáveis](blocos-informacao)
 
-### 12.	[Bloco: Dados Gerais](operacoes)
+### 12.	[Bloco: Dados Gerais](dados-gerais)
 
 ### 13.	[Bloco: Serviços](operacoes)
 

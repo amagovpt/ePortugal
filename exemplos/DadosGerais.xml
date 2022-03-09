@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<generaldata>​
+        <designation>Nome Empresa</designation>​​
+        <name>​
+            <label>Nome objeto:</label>
+			<value>AMA - Agência para a Modernização Administrativa, I.P.</value>​
+        </name>​		
+        <nipc>​
+            <label>NIPC/NON:</label>
+			<value>9877236812</value>​
+        </nipc>​
+        <addresses>
+            <label>Morada:</label>
+			<value>R. de Santa Marta 55, 1150-298 Lisboa</value>​		
+		</addresses>​
+		<representative>
+            <label>Nome Representante:</label>
+			<value>Manuel Gomes</value>​		
+		</representative>​
+		<entity>
+            <label>Entidade:</label>
+			<value>Erse</value>​		
+		</entity>​
+        <links>​
+            <linkdata>​
+                <labellink>Entidade</labellink>​
+                <linkurl>​
+                    <link><![CDATA[https://www.ama.gov.pt/]]></link>​
+					<label>AMA</label>
+                </linkurl>​
+            </linkdata>​
+        </links>​
+</generaldata>
