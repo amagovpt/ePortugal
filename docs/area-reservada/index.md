@@ -12,7 +12,7 @@ Data:  07 de março de 2022
 
 ### 3.	[Arquitetura do Sistema](arquitetura-sistema)
 
-### 4.	[Componentes da arquitetura](operacoes)
+### 4.	[Componentes da Arquitetura](componentes)
 
 ### 5.	[Selecção prévia da pessoa coletiva (NIPC)](operacoes)
 
