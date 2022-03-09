@@ -1,0 +1,10 @@
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+	<SOAP-ENV:Header/>
+	<S:Body>
+		<ns2:getDataReservedAreaRequest xmlns:ns2="http://www.eportugal.gov.pt/reservedareakit/">
+			<requestType>PEDIDOINICIAL{}</requestType>
+			<ident/>123456789</ident/>
+			<identType>NIC</identType>
+		</ns2:getDataReservedAreaRequest>
+	</S:Body>
+</S:Envelope>
