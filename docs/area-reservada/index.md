@@ -14,7 +14,7 @@ Data:  07 de março de 2022
 
 ### 4.	[Componentes da Arquitetura](componentes)
 
-### 5.	[Selecção prévia da pessoa coletiva (NIPC)](operacoes)
+### 5.	[Seleção prévia da pessoa coletiva (NIPC)](selecao-previa)
 
 ### 6.	[Interação com a Entidade](operacoes)
 
