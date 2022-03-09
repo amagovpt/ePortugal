@@ -2,4 +2,4 @@
 
 ![Arquitetura do Sistema](https://github.com/amagovpt/ePortugal/blob/main/assets/images/arquitetura-sistema.png?raw=true)
 
-*Diagrama 1 – arquitectura e fluxo de informação*
+*Diagrama 1 – arquitetura e fluxo de informação*
