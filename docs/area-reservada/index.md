@@ -16,7 +16,7 @@ Data:  07 de março de 2022
 
 ### 5.	[Seleção prévia da pessoa coletiva (NIPC)](selecao-previa)
 
-### 6.	[Interação com a Entidade](operacoes)
+### 6.	[Interação com a Entidade](interacao-entidade)
 
 ### 7.	[Serviço SOAP](operacoes)
 
