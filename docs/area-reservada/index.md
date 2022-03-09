@@ -22,7 +22,7 @@ Data:  07 de março de 2022
 
 ### 8.	[SOAP: Exemplo invocação do serviço remoto](soap-invocacao)
 
-### 9.	[SOAP: resposta do serviço remoto](operacoes)
+### 9.	[SOAP: resposta do serviço remoto](soap-resposta)
 
 ### 10.	[Écran inicial](operacoes)
 
