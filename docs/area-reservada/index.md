@@ -18,7 +18,7 @@ Data:  07 de março de 2022
 
 ### 6.	[Interação com a Entidade](interacao-entidade)
 
-### 7.	[Serviço SOAP](operacoes)
+### 7.	[Serviço SOAP](servico-soap)
 
 ### 8.	[SOAP: Exemplo invocação do serviço remoto](operacoes)
 
