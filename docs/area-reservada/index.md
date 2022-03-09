@@ -34,7 +34,7 @@ Data:  07 de março de 2022
 
 ### 14.	[Bloco: Pedidos Realizados](pedidos-realizados)
 
-### 15.	[Bloco: Detalhe do pedido](operacoes)
+### 15.	[Bloco: Detalhe do pedido](detalhe-pedido)
 
 ### 16.	[Link: Drill-down](operacoes)
 

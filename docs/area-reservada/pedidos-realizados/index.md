@@ -7,9 +7,9 @@ O bloco “pedidosrealizados” terá a seguinte estrutura:
 ### Pedidos Realizados
 Este separador apresenta duas listas, a dos pedidos em curso e a dos pedidos arquivados. O utilizador pode gerir e ordenar essas listas de pedidos da forma que entender mais adequada.
 
-![Serviços](https://github.com/amagovpt/ePortugal/blob/main/assets/images/pedidos-emcurso.png?raw=true)
+![Pedidos Em Curso](https://github.com/amagovpt/ePortugal/blob/main/assets/images/pedidos-emcurso.png?raw=true)
 
-![Serviços](https://github.com/amagovpt/ePortugal/blob/main/assets/images/pedidos-arquivados.png?raw=true)
+![Pedidos Arquivados](https://github.com/amagovpt/ePortugal/blob/main/assets/images/pedidos-arquivados.png?raw=true)
 
 Este separador é constituído pelos seguintes campos:
 

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<detailrequested>
+    <name>
+		<value>Pedido de alteração estatuária</value>​
+	</name>
+	<processnumber>
+		<label>Nº Processo</label>
+		<value>30084568472</value>​
+	</processnumber>​
+	<ordernumber>
+		<label>Nº Pedido</label>
+		<value>50912748</value>​
+	</ordernumber>​
+ 	<submissiondate>
+		<label>Data Submissão</label>
+		<value>2019-02-02</value>​
+	</submissiondate>​
+	<state>
+		<label>Estado</label>
+		<value>Pendente</value>​
+	</state>​
+	<date>
+		<label>Data Estado</label>
+		<value>2020-05-11</value>​
+	</date>​
+	<note>
+		<label>Observações</label>
+		<value>Documentos em análise </value>​
+	</note>	
+	<nametitle>Notificações</nametitle>
+	<notification>
+			<name>
+				<value>Pedido de elementos/documentos adicionais</value>​
+			</name>​			
+			<sender>
+				<label>Remetente</label>
+				<value>user_056</value>​
+			</sender>​
+			<datetime>
+				<label>Data e hora</label>
+				<value>2019-12-10  11:15</value>​
+			</datetime>​
+			<Subject>
+				<label>Assunto</label>
+				<value>Renovação de avença</value>​
+			</Subject>​
+			<recipient>
+				<label>Destinatário</label>
+				<value>Representante</value>​
+			</recipient>​
+	</notification>
+	<notification>
+			<name>
+				<label></label>
+				<value>Pedido submetido</value>​
+			</name>​		
+			<sender>
+				<label>Remetente</label>
+				<value>user_056</value>​
+			</sender>​
+			<datetime>
+				<label>Data e hora</label>
+				<value>2019-12-10  11:15</value>​
+			</datetime>​
+			<Subject>
+				<label>Assunto</label>
+				<value>Renovação de avença</value>​
+			</Subject>​
+			<recipient>
+				<label>Destinatário</label>
+				<value>Representante</value>​
+			</recipient>​
+	</notification>
+</detailrequested>
