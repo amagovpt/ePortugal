@@ -10,7 +10,7 @@ Data:  07 de março de 2022
 
 ### 2.	[Filosofia da construção do Interface](filosofia)
 
-### 3.	[Arquitetura do Sistema](operacoes)
+### 3.	[Arquitetura do Sistema](arquitetura-sistema)
 
 ### 4.	[Componentes da arquitetura](operacoes)
 
