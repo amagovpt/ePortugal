@@ -2,7 +2,7 @@
 
 A interação entre a Área Reservada do ePortugal e o sistema da Entidade AP remota inicia-se com uma invocação do webservice da Entidade com a seguinte estrutura:
 
-[Exemplo Pedido.txt - Request SOAP inicial](https://github.com/amagovpt/ePortugal/blob/main/exemplos/Pedido.txt)
+<a href="https://github.com/amagovpt/ePortugal/blob/main/exemplos/Pedido.txt" target="_blank">Exemplo Pedido.txt - Request SOAP inicial</a>
 
 ```markdown
 <S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
