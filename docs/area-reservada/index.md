@@ -8,7 +8,7 @@ Data:  07 de março de 2022
 
 ### 1.	[Contexto e Objetivo](contexto)
 
-### 2.	[Filosofia da construção do Interface](operacoes)
+### 2.	[Filosofia da construção do Interface](filosofia)
 
 ### 3.	[Arquitetura do Sistema](operacoes)
 
