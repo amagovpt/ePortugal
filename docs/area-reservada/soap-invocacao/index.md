@@ -25,6 +25,6 @@ A interação entre a Área Reservada do ePortugal e o sistema da Entidade AP re
 |--|--|--|-
 | **requestType** | Tipo de pedido para obter um determinado tipo de informação | Sim | -
 | **ident** | Identificador do utilizador, cidadão(nic), advogado(noa), solicitador(ncs) e notário(non) | Sim | -
-| **identType** | Tipo de utilizador NIC, NICCMD, NON, NCS e NOA, DOCUMENT, EIDAS | Sim | NIC  - autenticação por CC <br>NICCMD – autenticação por CMD <br>NON- autenticação por certificado digital notário <br>NCS – autenticação por certificado digital de solicitador <br>NOA – autenticação por certificado digital advogado <br>DOCUMENT – autenticação por tipo de documento <br>EIDAS- autenticação Eidas
+| **identType** | Tipo de utilizador | Sim | CES:CT:000000001  - Cidadão português <br> CES:CT:000000014 - Advogado <br> CES:CT:000000015 - Solicitador <br> CES:CT:000000016 - Notário <br> CES:CT:000000100 - Cidadão Estrangeiro Europeu <br> CES:CT:000000200 - Cidadão Estrangeiro Não Europeu
 | **orgIdent** | NIPC da pessoa colectiva | Não | -
 | **lang** | Lingua actual do portal | Não | pt_PT<br>en_GB
